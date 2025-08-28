@@ -1,0 +1,12 @@
+.progress-bar {
+  width: 100%;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.progress-fill {
+  height: 20px;
+  background-color: #0055aa; /* clarity */
+  border-radius: 5px;
+}
