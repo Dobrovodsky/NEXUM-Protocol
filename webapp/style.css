@@ -1,9 +1,12 @@
-body {
-  background-color: #f0f4f8; /* calm blue */
-  color: #333;
-  font-family: Arial, sans-serif;
+.progress-bar {
+  width: 100%;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-top: 10px;
 }
 
-h1 {
-  color: #0055aa; /* clarity */
+.progress-fill {
+  height: 20px;
+  background-color: #0055aa; /* clarity */
+  border-radius: 5px;
 }
